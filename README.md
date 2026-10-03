@@ -40,3 +40,8 @@ hafanof.cz
 ## Zásada obsahu
 
 Do veřejné verze nepatří vymyšlení psi, partneři, čísla ani AI náhrady reálných fotografií svěřenců. Obsah se doplňuje jen z ověřených podkladů Hafanof.
+
+
+## Cloudflare Pages
+
+Preview/demo deployment is connected to Cloudflare Pages project `hafanof-web`.
